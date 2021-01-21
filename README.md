@@ -1,5 +1,5 @@
 # Data-Mining :pick:
-This repository contains the reports R markddown, R file and module description from the Data Mining project I have undergone at Robert Gordon University. Learned data mining and machine learning techniques and applied them in **R** using **Rstudio** to a water dataset to predict water category labels.
+This repository contains the datasets, report in R markddown format, R code file and module description from the Data Mining project I have undergone at Robert Gordon University. Learned data mining and machine learning techniques and applied them in **R** using **Rstudio** to a water dataset to predict water category labels.
 
 ## Technologies and techniques used for this project
 
